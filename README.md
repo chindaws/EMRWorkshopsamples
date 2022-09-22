@@ -9,6 +9,8 @@ The following run book contains guidance for accessing the AWS Event Engine and 
 
 The following provides some specifici tips you may need to be aware of when running the sample notebooks.
 
+[Contribution guidelines for this project](MasseyLecture-RunSheet.pdf)
+
 
 ### Visualize-data-with-pandas-matplotlib
 
