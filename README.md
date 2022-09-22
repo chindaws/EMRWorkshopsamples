@@ -6,6 +6,8 @@
 The following run book contains guidance for accessing the AWS Event Engine and outliens what workshops we are completing today. 
 [Workshop link](https://catalog.us-east-1.prod.workshops.aws/workshops/3c29bc13-0f30-42f7-9f97-4ce8e2ef9b17/en-US)
 
+[event engine](https://dashboard.eventengine.run/login?hash=8c3b-1a403b9544-4a)
+
 ## Hints and tips for sample notebooks
 
 The following provides some specifici tips you may need to be aware of when running the sample notebooks.
