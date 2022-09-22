@@ -1,6 +1,10 @@
 # EMR Workshop samples
 
 
+## Run book
+
+The following run book contains guidance for accessing the AWS Event Engine and outliens what workshops we are completing today. 
+
 ## Hints and tips for sample notebooks
 
 
