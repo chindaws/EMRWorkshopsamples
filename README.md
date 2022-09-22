@@ -7,6 +7,7 @@ The following run book contains guidance for accessing the AWS Event Engine and 
 
 ## Hints and tips for sample notebooks
 
+The following provides some specifici tips you may need to be aware of when running the sample notebooks.
 
 
 ### Visualize-data-with-pandas-matplotlib
@@ -15,10 +16,11 @@ After first cell “pip install matplotlib “ and the 13th Cell “ from sklear
 1. Right click on your notebook and select **RESTART KERNEL** from the context menu.
 2. Click the **RESTART KERNEL** icon, ( the one that looks like a REFRESH icon ) in the  menu bar at the top of the notebook.
 
+Note that you may need to re-run your cells from the top of the notebook after a kernel restart.
 
 ### Word-count-wth-spark 
 
-The **SET UP** instructions asks you to create an S3 Bucket. The last cell writes the final file to the bucket you set up.  You can either skip the last cell, or create a S3 bucket as per the instructions below.
+The **SET UP** instructions asks you to create an **S3 Bucket**. The last cell writes the final file to the bucket you set up.  You can either skip the last cell, or create a S3 bucket as per the instructions below, then complete run the last cell.
 
 1. Switch to the AWS Console tab in your web browser 
 2. in the Search box in the top navigation bar type **S3**, then select S3 from the list of results that gets displayed.
