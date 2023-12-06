@@ -33,4 +33,6 @@ The **SET UP** instructions asks you to create an **S3 Bucket**. The last cell w
 4. In the BUCKET NAME field enter the following replacing [your initials with your initials  : results-bucket-<your initials>  e.g results-bucket-ch
     
     *NOTE: bucket names need to be globally unique. If it fails to create try adding a 4 random numbers to the end of your bucket name. E.g results-bucket-ch-4673*
-5. Scroll to the bottom of the page and click the **CREATE BUTTON** page
+5. Scroll to the bottom of the page and click the **CREATE BUTTON** page.
+
+Thanks
